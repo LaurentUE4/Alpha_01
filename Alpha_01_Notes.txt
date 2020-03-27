@@ -13,12 +13,14 @@ Problème de calcul et actualisation du poids.
 Le problème peut venir de la façon de créer l'inventaire (for loop) et les onglets (for each loop) ?
 Problème d'index ?
 
-On dirait que l'index (dans le code) ne correspond pas à ce qui est affiché
+On dirait que l'index (dans le code) ne correspond pas à ce qui est affiché.
 
-description des slots :
+Description des slots :
 Sac à Dos : Couleur de fond = rareté de l'item
-Chiffre à gauche : Poids de l'item
-Chiffre à droite : quantité (apparait seulement si l'item est stackable)
-Barre de vie de l'item (apprait seulement si l'item possède des points de vie)
-Nom
+Chiffre à gauche : Poids de l'item,
+Chiffre à droite : quantité (apparait seulement si l'item est stackable),
+Barre de vie de l'item (apprait seulement si l'item possède des points de vie),
+Nom,
 Icone (La grid est l'icone par défaut des items dont les icones ne sont pas encore importées).
+
+Problème affichage Livres Panel (à cause de son contenant??).
