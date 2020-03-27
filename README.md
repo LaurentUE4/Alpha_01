@@ -1,5 +1,5 @@
 # Inventory System
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4.24
 
 **-- Le système d'inventaire en mode blueprints --**
 
