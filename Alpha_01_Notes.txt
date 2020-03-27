@@ -8,8 +8,6 @@ Lorsqu'on prend une autre classe, et qu'on reprend un item de la classe qu'on av
 Exemple : je prends une 3 pommes. Je les drop ensuite pour vider l'inventaire. 
 Si je reprends des pommes, elles n'appraissent pas. Je dois prendre autre chose d'abord pour qu'ensuite les pommes apparaissent si j'en reprend.
 
-Problème de calcul et actualisation du poids.
-
 Le problème peut venir de la façon de créer l'inventaire (for loop) et les onglets (for each loop) ?
 Problème d'index ?
 
@@ -24,3 +22,5 @@ Nom,
 Icone (La grid est l'icone par défaut des items dont les icones ne sont pas encore importées).
 
 Problème affichage Livres Panel (à cause de son contenant??).
+
+Problème de calcul et actualisation du poids.
