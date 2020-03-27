@@ -15,7 +15,7 @@ Problème d'index ?
 
 On dirait que l'index (dans le code) ne correspond pas à ce qui est affiché
 
-description des slots :
+Description des slots :
 Sac à Dos : Couleur de fond = rareté de l'item
 Chiffre à gauche : Poids de l'item
 Chiffre à droite : quantité (apparait seulement si l'item est stackable)
