@@ -23,5 +23,5 @@ Icone (La grid est l'icone par défaut des items dont les icones ne sont pas enc
 
 Problème affichage Livres Panel (à cause de son contenant??).
 
-Problème de calcul et actualisation du poids.
+Problème de calcul et actualisation du poids affiché.
 
