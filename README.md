@@ -54,4 +54,4 @@ L'onglet **consumables** contient les consumables.
 
 L'onglet **Upgrades** contient les Upgrades.
 
-L'onglet **Quest Items** contient les objets de quêtes et artefacts spéciaux.
+L'onglet **Quest Items** contient les objets de quêtes et artefacts spéciaux et objets de quête.
